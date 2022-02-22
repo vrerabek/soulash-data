@@ -2,14 +2,18 @@ export {fluxRewards}
 /**
  * Additional sources of Cosmic Flux
  */
-let rewards = {
+let fluxRewards = {
     'mythicPlusFlux' : 100,
+    'arenaWin': 100,
+    'raidBoss': 100,
+    'greatVault': 500,
+
     
     // Zereth Mortis
-    'repeatableTreasures': 12,
     'rares': '50-75',
     'dailies': 75,
-    'dailyTreasure': 75,
     'weeklies': 150,
+    'repeatableTreasures': "10-14",
+    'dailyTreasure': 75,
     'bigTreasure': 200
 }

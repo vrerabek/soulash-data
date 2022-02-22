@@ -4,5 +4,6 @@ export {rewards}
  */
 let rewards = {
     'tormentorsCinders' : 100,
+    'tormentorsAsh'     : 75,
     'assaultCinders'    : 100,
 }

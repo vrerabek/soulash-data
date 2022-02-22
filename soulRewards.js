@@ -1,7 +1,7 @@
 export {soulRewards}
 
 /**
- * Soul Ash and Soul Cinders rewards for Torghast layers
+ * Rewards for Torghast layers
  */
 let soulRewards = {
     '1' : {
