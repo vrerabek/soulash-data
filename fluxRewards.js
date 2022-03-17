@@ -12,7 +12,7 @@ let fluxRewards = {
     // Zereth Mortis
     'rares': '50-75',
     'dailies': 75,
-    'weeklies': 150,
+    'weeklies': 400,
     'repeatableTreasures': "10-14",
     'dailyTreasure': 75,
     'bigTreasure': 200
